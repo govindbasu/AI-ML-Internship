@@ -1,2 +1,2 @@
-Day 1 Mini Project
+Day 2 Mini Project
 Hangman Game
