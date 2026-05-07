@@ -1,1 +1,2 @@
-# AI-ML-Internship
+Day 3 Mini Project
+User Management
